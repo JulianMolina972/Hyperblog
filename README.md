@@ -7,7 +7,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos y tips muy buenos.
-
+* Creado por Platzi Team
 
 
 
@@ -22,4 +22,4 @@ An amazing blog for [ curso de Git y Github](https://platzi.com/cursos/git-githu
 * The workflow in Github
 * The real love for best practices
 * Very good tips and tricks.
-
+* Created by Platzi Team
