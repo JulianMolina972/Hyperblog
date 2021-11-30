@@ -8,7 +8,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El verdadero amor por las buenas prácticas
 * Trucos y tips muy buenos.
 * Creado por Platzi Team
-
+* Incluye ejemplos en Windows, Linux y Mac
 
 
 
