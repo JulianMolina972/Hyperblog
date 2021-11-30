@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f3c1:
+# Hyperblog 
 Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 
 
@@ -12,7 +12,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 
 
-# Hyperblog :tw-1f3c1:
+# Hyperblog 
 An amazing blog for [ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github")  [Platzi](https://platzi.com/ "Platzi")
 
 
